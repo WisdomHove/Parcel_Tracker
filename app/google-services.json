@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "724704619391",
+    "firebase_url": "https://parcel-tracker-9ba18-default-rtdb.firebaseio.com",
+    "project_id": "parcel-tracker-9ba18",
+    "storage_bucket": "parcel-tracker-9ba18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724704619391:android:42c299a4f78d76e5f6084a",
+        "android_client_info": {
+          "package_name": "com.hove.parceltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724704619391-ldbud4bv30rffj8m1bsfs7l18a4e91jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hove.parceltracker",
+            "certificate_hash": "b82e1f4d298530cddb33184d9492b11df10b6fda"
+          }
+        },
+        {
+          "client_id": "724704619391-brqhl6hcr2preltmes2de9ioqrb1e3a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWq6QAt4124nOusMVtPQ6JMnq37Xyo6YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724704619391-brqhl6hcr2preltmes2de9ioqrb1e3a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
